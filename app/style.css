@@ -1,15 +1,26 @@
-body{
-    color: white;
-background-image:url("https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dW5pdmVyc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60");
-background-size: cover;
-text-align: center;
-font-family: 'Orbitron', sans-serif;
+body {
+  color: white;
+  background-image: url("https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dW5pdmVyc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60");
+  background-size: cover;
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
 }
-.btn
-{
-    padding: 6px 12px;
-    background: white;
-    border: none;
-    font-family: 'Orbitron', sans-serif;  
-      
+.btn {
+  padding: 6px 12px;
+  background: white;
+  border: none;
+  font-family: "Orbitron", sans-serif;
 }
+h1 {
+  font-family: Corleone;
+}
+.under {
+  border-bottom: 3px solid white;
+}
+/*
+@font-face{
+src:url("Corleone.ttf");
+font-family: Corleone;
+font-weight: bolder;
+}
+*/
